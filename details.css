@@ -1,0 +1,15 @@
+h1 {
+  color:gold;
+  font-style:oblique;
+
+}
+
+p {
+font-size:20; font-family:'calibri'; color: white;
+}
+body {
+  background-image:url("tesla-model-x.jpg");
+}
+ul {
+  color: white;
+}
